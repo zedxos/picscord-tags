@@ -1,0 +1,19 @@
+._selection_p {
+  display: inline-block;
+}
+
+._selection_span {
+  background-color: #b62ef6;
+  cursor: pointer;
+  padding: 3px;
+  border-radius: 10%;
+  box-shadow: -1px 1px 11px 6px rgba(189, 172, 172, 0.33);
+  color: #dddddd;
+}
+._div_tags {
+  background-color: #dddddd;
+  width: 50%;
+  padding: 3px;
+  border-radius: 10%;
+  box-shadow: -1px 1px 11px 6px rgba(189, 172, 172, 0.33);
+}
